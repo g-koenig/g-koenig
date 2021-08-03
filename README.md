@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Autogriff](https://github.com/Autogriff).
+- 📫 How to reach me: gregory.koenig@autogriff.com.
